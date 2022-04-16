@@ -1,0 +1,5 @@
+{
+  "MONGODB": "mongodb+srv://catcatsystem:catcatsystem2021@catcatbotsystem.ktxm1.mongodb.net/Catly?authSource=admin&replicaSet=atlas-pe9icm-shard-0&w=majority&readPreference=primary&appname=MongoDB%20Compass&retryWrites=true&ssl=true",
+  "PORT": 80,
+  "WHITE_LIST": ["143.198.59.5", "137.184.186.148", "137.184.225.230", "::1"]
+}
