@@ -1,8 +1,8 @@
 # HuyApi
 A simple image api by **vuhuy#8127**
-## Installation
+## Install
 ```yarn install```
-## Configuration
+## Config
 ```json
 {
   "MONGODB": "",
